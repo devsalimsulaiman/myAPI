@@ -1,0 +1,113 @@
+[
+    {
+        "english": "Can you speak English?",
+        "hausa": "Ana jin turanchi?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I can't speak Hausa",
+        "hausa": "Ba na jin Hausa",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Hello / Hi",
+        "hausa": "Sannu",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm from ...",
+        "hausa": "na zo daga",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Morning",
+        "hausa": "ina kwana",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Afternoon",
+        "hausa": "ina yini",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Evening",
+        "hausa": "ina yini",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Night",
+        "hausa": "sai da safe",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "How are you?",
+        "hausa": "ya kuke?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm fine, thanks",
+        "hausa": "ina lafiya, na gode",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good (response to greeting)",
+        "hausa": "lafiya",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "OK",
+        "hausa": "yauwa",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Bad (response to greeting)",
+        "hausa": "ba lafiya",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Great!",
+        "hausa": "madalla!",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm not well, thanks",
+        "hausa": "ba na jin dadi, na gode",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "What's your name?",
+        "hausa": "me nene sunan?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "My name is ...",
+        "hausa": "suna na ...",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "See you later",
+        "hausa": "zamu hadu anjima",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Goodbye",
+        "hausa": "sai anjima",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "How about you?",
+        "hausa": "ku fa?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm pleased to meet you",
+        "hausa": "na ji dadin ganin ku",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "It's been a while",
+        "hausa": "kwana da yawa",
+        "id": "greetingsTranslation"
+    }
+
+]

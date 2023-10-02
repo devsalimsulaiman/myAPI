@@ -1,0 +1,23 @@
+[
+    {
+        "id": 90,
+        "title": "Nauzo Pharmacy",
+        "type": "pharmacies",
+        "url": "/nauzo-pharmacy",
+        "avatar": "../assets/logo/nauzo-pharmacy.jpg"
+    },
+    {
+        "id": 91,
+        "title": "Shebab Pharmacy",
+        "type": "pharmacies",
+        "url": "/shebab-pharmacy",
+        "avatar": "../assets/logo/shebab-pharmacy.jpg"
+    },
+    {
+        "id": 92,
+        "title": "Zagbayi Pharmacy",
+        "type": "pharmacies",
+        "url": "/zagbayi-pharmacy",
+        "avatar": "../assets/logo/zagbayi-pharmacy.jpg"
+    }
+]

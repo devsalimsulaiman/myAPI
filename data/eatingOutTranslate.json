@@ -1,0 +1,377 @@
+[
+    {
+        "english": "breakfast",
+        "hausa": "abinchin safe",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "lunch",
+        "hausa": "abinchin rana",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "dinner",
+        "hausa": "abinchin yamma",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "food",
+        "hausa": "abinchi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "meat",
+        "hausa": "nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "beef",
+        "hausa": "naman shanu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "chicken",
+        "hausa": "naman kaza",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "eggs",
+        "hausa": "kwai",
+        "id": "eatingTranslation"
+    },{
+        "english": "fish",
+        "hausa": "kifi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "vegetables",
+        "hausa": "ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "bread",
+        "hausa": "bredi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "yogurt",
+        "hausa": "yogurt",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "rice",
+        "hausa": "shinkafa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "beans",
+        "hausa": "wake",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salad",
+        "hausa": "salad",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "soup",
+        "hausa": "miya",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "fries",
+        "hausa": "abun da aka soya",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "ice cream",
+        "hausa": "ice cream",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sugar",
+        "hausa": "suga",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salt",
+        "hausa": "gishiri",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "pepper",
+        "hausa": "pepe",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "vegetable oil",
+        "hausa": "mai din ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "olive oil",
+        "hausa": "mai zaitun ",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "herbs",
+        "hausa": "ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "garlic",
+        "hausa": "tapanuwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "stew",
+        "hausa": "miya tumatiri",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "fork",
+        "hausa": "fork",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "knive",
+        "hausa": "wuka",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "spoon",
+        "hausa": "chokali",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "glass",
+        "hausa": "glasi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "tea cup",
+        "hausa": "kofin tea",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "plate",
+        "hausa": "kwanu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "hot (temperature)",
+        "hausa": "zafi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "cold (temperature)",
+        "hausa": "sanyi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "delicious",
+        "hausa": "dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salty",
+        "hausa": "da gishiri sosai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sweet",
+        "hausa": "dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sour",
+        "hausa": "tsami",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "hot (spicy)",
+        "hausa": "akwai pepe sosai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am hungry",
+        "hausa": "ina jin yunwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am full",
+        "hausa": "na chika",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i love this dish",
+        "hausa": "ina son abinchin nan",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "what is it called?",
+        "hausa": "me ake kiran ta?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "this food is delicious",
+        "hausa": "abinchin nan da dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am a vegetarian",
+        "hausa": "ba na chin nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "restaurant",
+        "hausa": "gurin chin abinchi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "make reservations for two table",
+        "hausa": "a ajiye gurin mutane biyu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have a menu?",
+        "hausa": "zan iya ganin menu?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i hae the drink menu?",
+        "hausa": "zan iya ganin menu na abun sha?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "what do you recommend?",
+        "hausa": "me ya kamata in dauka?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i order some food?",
+        "hausa": "Sannu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't eat meat",
+        "hausa": "ba na chin nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't eat eggs",
+        "hausa": "ba na chin kwai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am alergic to...",
+        "hausa": "Sannu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "butter",
+        "hausa": "bota",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "dairy products",
+        "hausa": "abubuwan madara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "wheat",
+        "hausa": "alkaki",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "honey",
+        "hausa": "zuma",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "chili",
+        "hausa": "tarugu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i'd like it without...",
+        "hausa": "ina so ama ba tare da...",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "bill, please!",
+        "hausa": "nawa ne?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "take away/take home",
+        "hausa": "zan tafi da ita",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "to drink",
+        "hausa": "zan sha",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "to eat",
+        "hausa": "zan chi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "coffee",
+        "hausa": "kofi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "tea",
+        "hausa": "shayi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "water",
+        "hausa": "ruwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "juice",
+        "hausa": "joos",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "orange drink",
+        "hausa": "joos din lemu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "ice, please!",
+        "hausa": "a kawo kankara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "no ice, please",
+        "hausa": "kar a sa kankara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't feel very well",
+        "hausa": "ba na jin dadin jiki",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "where is the toilet?",
+        "hausa": "ina toilet?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have this place's phone number?",
+        "hausa": "zan iya samun lambar wayan gurin nan?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have this place's address?",
+        "hausa": "zan iya samun adreshin gurin nan?",
+        "id": "eatingTranslation"
+    }
+
+]

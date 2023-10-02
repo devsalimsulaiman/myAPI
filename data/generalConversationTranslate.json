@@ -1,0 +1,274 @@
+[
+    {
+        "english": "Yes",
+        "hausa": "eh",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No",
+        "hausa": "a'a",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you understand?",
+        "hausa": "an gane?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't understand",
+        "hausa": "ban gane ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I understand",
+        "hausa": "na gane",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Thank you",
+        "hausa": "na gode",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Please...",
+        "hausa": "dan Allah",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm sorry (apology)",
+        "hausa": "ayi hakuri",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Please, say that again",
+        "hausa": "dan kara maimaitawa",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Can you speak slowly?",
+        "hausa": "za a iya magana a hankali?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm sorry (sympathy)",
+        "hausa": "sannu",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "It's alright (I'm ok)",
+        "hausa": "bakomai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't know",
+        "hausa": "ban sani ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't like it",
+        "hausa": "ba na so",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I like it",
+        "hausa": "ina so",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "You are welcome",
+        "hausa": "barka",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "With my pleasure",
+        "hausa": "da godiya",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I would like/ I want...",
+        "hausa": "ina son...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "May I use your phone?",
+        "hausa": "zan iya amfani da wayan ka?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Are you sure?",
+        "hausa": "an tambata?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Can you speak English?",
+        "hausa": "ana jin turanchi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No, thanks",
+        "hausa": "a'a, na gode",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No, that's wrong",
+        "hausa": "a'a, bai kamata ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "That's right",
+        "hausa": "tayi daidai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No problem",
+        "hausa": "ba damuwa",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Help!",
+        "hausa": "a taimaka!",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Help! Thief!",
+        "hausa": "a taimaka! parawo!",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What?",
+        "hausa": "me?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How many?",
+        "hausa": "guda nawa?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How much?",
+        "hausa": "nawa ne?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where?",
+        "hausa": "a ina?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How much is this?",
+        "hausa": "nawa ne wanan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Is there?",
+        "hausa": "akwai?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Are there?",
+        "hausa": "akwai?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What are you doing?",
+        "hausa": "me kake yi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What do you want?",
+        "hausa": "me kuke so?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where are you going?",
+        "hausa": "me kuke yi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm going to...",
+        "hausa": "zan je...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where are we going?",
+        "hausa": "ina zamu je?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "We are going to...",
+        "hausa": "zamu je...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "When is your birthday?",
+        "hausa": "yaushe ne ranar haihuwar ka?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What is happening now?",
+        "hausa": "me ke faruwa yanzu?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Don't forget",
+        "hausa": "kar a manta",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Excuse me",
+        "hausa": "barka dai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you live here?",
+        "hausa": "kuna tsayawa a nan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you like it here?",
+        "hausa": "kuna jin dadin zama a nan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I love it here",
+        "hausa": "ina jin dadin nan",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here on holiday",
+        "hausa": "na zo hutu ne",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here for business",
+        "hausa": "na zo saboda kasuwanchi",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here to work",
+        "hausa": "na zo saboda aiki",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here to study",
+        "hausa": "na zo saboda karatu",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Just kidding",
+        "hausa": "wasa na ke yi",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "This is my first time here",
+        "hausa": "zuwa na ta farko ke ga",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "We're on our honey moon",
+        "hausa": "mun zo hutun mata da miji ne",
+        "id": "generalConversationTranslation"
+    }
+
+
+]

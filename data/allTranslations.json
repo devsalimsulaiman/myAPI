@@ -1,0 +1,1930 @@
+[
+    {
+        "english": "congratulations",
+        "hausa": "barkan mu",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "well done",
+        "hausa": "aiki tayi kyau",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "happy birthday",
+        "hausa": "barka da ranar haihuwa",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "happy new year",
+        "hausa": "barkan mu da sabuwar shekara",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "enjoy your holiday",
+        "hausa": "a ji dadin hutu",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "have a safe journey",
+        "hausa": "a je lafiya",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "have a good day",
+        "hausa": "ina yi muku fatan rana mai kyau",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "have a good weekend",
+        "hausa": "ina yi muku fatan karshen sati mai kyau",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "good luck",
+        "hausa": "ina yi muku fatan sa'a",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "get well soon",
+        "hausa": "a ji lafiya da sauri",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "enjoy your stay",
+        "hausa": "ku ji dadin zaman ku",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "i am sorry for your loss",
+        "hausa": "sannu, ban ji dadin rashin ba",
+        "id": "occasionalPhrasesTranslation"
+    },
+    {
+        "english": "i am sorry for that",
+        "hausa": "sannu",
+        "id": "occasionalPhrasesTranslation"
+    },
+
+
+
+
+    {
+        "english": "Can you speak English?",
+        "hausa": "Ana jin turanchi?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I can't speak Hausa",
+        "hausa": "Ba na jin Hausa",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Hello / Hi",
+        "hausa": "Sannu",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm from ...",
+        "hausa": "na zo daga",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Morning",
+        "hausa": "ina kwana",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Afternoon",
+        "hausa": "ina yini",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Evening",
+        "hausa": "ina yini",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good Night",
+        "hausa": "sai da safe",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "How are you?",
+        "hausa": "ya kuke?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm fine, thanks",
+        "hausa": "ina lafiya, na gode",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Good (response to greeting)",
+        "hausa": "lafiya",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "OK",
+        "hausa": "yauwa",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Bad (response to greeting)",
+        "hausa": "ba lafiya",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Great!",
+        "hausa": "madalla!",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm not well, thanks",
+        "hausa": "ba na jin dadi, na gode",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "What's your name?",
+        "hausa": "me nene sunan?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "My name is ...",
+        "hausa": "suna na ...",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "See you later",
+        "hausa": "zamu hadu anjima",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "Goodbye",
+        "hausa": "sai anjima",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "How about you?",
+        "hausa": "ku fa?",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "I'm pleased to meet you",
+        "hausa": "na ji dadin ganin ku",
+        "id": "greetingsTranslation"
+    },
+    {
+        "english": "It's been a while",
+        "hausa": "kwana da yawa",
+        "id": "greetingsTranslation"
+    },
+
+
+    {
+        "english": "it is an emergency",
+        "hausa": "da tsananani",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have lost my passport",
+        "hausa": "na patar da passport na",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have lost my wallet",
+        "hausa": "na patar da wallet na",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "where is the nearst police station?",
+        "hausa": "ina police station na kusa?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "Help!",
+        "hausa": "a taimaka!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "where is the nearest hospital?",
+        "hausa": "ina asibiti na kusa?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "I need a doctor",
+        "hausa": "ina neman likita",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "call a doctor",
+        "hausa": "a kira likita",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "call an ambulance",
+        "hausa": "a kira motar asibiti",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "could you help me, please?",
+        "hausa": "za a iya taimaka mun?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "fire!",
+        "hausa": "wuta!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have run out of gas",
+        "hausa": "mai na ya kare",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i am lost, please help",
+        "hausa": "na pata, a taimaka mun",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "police station",
+        "hausa": "police station",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "police",
+        "hausa": "police",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have been mugged?",
+        "hausa": "an yi mun sata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "stop!",
+        "hausa": "tsaya!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "thief!",
+        "hausa": "parawo!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i apologise",
+        "hausa": "na bada hakuri",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "can i use your telephone",
+        "hausa": "zan iya amfani da wayan ka?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "my wife is missing",
+        "hausa": "mata na ta pata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "my husband is missing",
+        "hausa": "miji na ya pata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i am sorry (feeling)",
+        "hausa": "ban ji dadin haka ba",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i didn't do it",
+        "hausa": "ban yi ba",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "can i have someone who can speak English?",
+        "hausa": "zan iya ganin wanda ya iya turanchi?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "does anyone here speak English?",
+        "hausa": "akwai wanda ya iya turanchi a nan?",
+        "id": "emergencyTranslation"
+    },
+
+
+    {
+        "english": "Where is ...?",
+        "hausa": "ina ...?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "How far is it?",
+        "hausa": "awa nawa ne?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "How do i get there?",
+        "hausa": "ya zan kai gurin?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Can you show me where it is on the map?",
+        "hausa": "dan nuna mun a kan map",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "North",
+        "hausa": "arewa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "South",
+        "hausa": "kudu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "East",
+        "hausa": "gabas",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "West",
+        "hausa": "yamma",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Cross the street",
+        "hausa": "tsallaka titi",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Turn left",
+        "hausa": "mike hanun hagu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Turn right",
+        "hausa": "mike hanun dama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Up",
+        "hausa": "sama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Down",
+        "hausa": "kasa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Go straight",
+        "hausa": "mike gaba",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Left",
+        "hausa": "hagu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Right",
+        "hausa": "dama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "In front of",
+        "hausa": "a gaban",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Behind",
+        "hausa": "a bayan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Under",
+        "hausa": "karkashin",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "On top",
+        "hausa": "saman",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Opposite",
+        "hausa": "a gaban",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Near",
+        "hausa": "kusa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Far",
+        "hausa": "nisa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "On the corner",
+        "hausa": "a kona",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "It's straight ahead",
+        "hausa": "tana chan gaba",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "There",
+        "hausa": "chan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Here",
+        "hausa": "nan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Towards the traffic lights",
+        "hausa": "ta gurin traffic",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Can you take me there?",
+        "hausa": "za a iya kaini gurin?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the Airport?",
+        "hausa": "ina airport?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the bus stop?",
+        "hausa": "ina bus ke tsaya wa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the train station?",
+        "hausa": "ina gidan jirgin kasa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the bank?",
+        "hausa": "ina banki?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the store?",
+        "hausa": "ina shago?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the hotel?",
+        "hausa": "ina hotel?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the internet cafe?",
+        "hausa": "ina cafe din computa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the market?",
+        "hausa": "ina kasuwa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the police station?",
+        "hausa": "ina police station?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the post office?",
+        "hausa": "ina post office? (ina gidan mika sako?)",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the cinema?",
+        "hausa": "ina gidan kallon fim?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is ...?",
+        "hausa": "ina...?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the school?",
+        "hausa": "ina makaranta?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the house?",
+        "hausa": "ina gidan?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Some short minutes walk",
+        "hausa": "tafiya dan mintsi kadan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Go by vehicle",
+        "hausa": "je da abun hawa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Bridge",
+        "hausa": "flai ova",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Road",
+        "hausa": "hanya",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Tunnel",
+        "hausa": "rami",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Park",
+        "hausa": "gareji",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Toilet / Bathroom",
+        "hausa": "toilet",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the toilet / bathroom?",
+        "hausa": "ina toilet? / ina gidan wanka?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is this place?",
+        "hausa": "ina ne nan?",
+        "id": "directionsTranslation"
+    },
+
+
+
+    {
+        "english": "Hotel",
+        "hausa": "hotel",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Motel",
+        "hausa": "gidan kwana",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Guesthouse",
+        "hausa": "gidan baaki",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Bed and Breakfast",
+        "hausa": "gado da abinchin saafe",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Campsite",
+        "hausa": "gurin daji",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Where is the nearest hotel?",
+        "hausa": "ina ne hotel da ke kusa?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Where is the nearest guesthouse?",
+        "hausa": "ina ne gidan baki da ke kusa?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can you recommend somewhere good?",
+        "hausa": "za a iya nuna mun guri mai kyau?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Nearby",
+        "hausa": "a kusa",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Cheap",
+        "hausa": "wanda ba tsada",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "In the city",
+        "hausa": "a cikin birni",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Do you have room for tonight?",
+        "hausa": "akwai daki ma daren nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Single room",
+        "hausa": "daki daya",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Double room",
+        "hausa": "dakuna biyu",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Suite",
+        "hausa": "sut",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there en-suite bathroom?",
+        "hausa": "akwai toilet mai matsayi?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there a safe?",
+        "hausa": "akwai loka mai makulli?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there hot water heater?",
+        "hausa": "akwai heeta na ruwan zafi?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there central heating?",
+        "hausa": "akwai AC mai kara zafi a daki?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is breakfast included?",
+        "hausa": "tare da abinchin safe?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "When is breakfast served?",
+        "hausa": "yaushe a ke bada abinchin safe?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per night to stay?",
+        "hausa": "nawa ne idan zan kwana dare daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per week to stay?",
+        "hausa": "nawa ne idan zan kwana sati daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per month to stay?",
+        "hausa": "nawa ne idan zan kwana wata daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "May i see it?",
+        "hausa": "zan iya gani?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'll take it",
+        "hausa": "zan karba",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I have a room reservation",
+        "hausa": "ina da daki da aka ajiye mun",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like to check-in",
+        "hausa": "zan so in shiga",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like to check-out",
+        "hausa": "zan so in fita",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "What time is checkout?",
+        "hausa": "wani lokachi zan fita?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i leave my bags here?",
+        "hausa": "zan iya barin jaka na a nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i change room?",
+        "hausa": "zan iya chanza daki?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can I see double room?",
+        "hausa": "zan iya ganin guri mai daki biyu?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I want a room with good view",
+        "hausa": "ina son daki mai windo da zan iya ganin gari",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like a non-smoking room please",
+        "hausa": "ina son gurin da ba shan taba",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there a message for me?",
+        "hausa": "akwai sako mun?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I left my key in the room",
+        "hausa": "na bar makuli na a daki",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i do money exchange here?",
+        "hausa": "zan iya chanza kudi a nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there kitchen?",
+        "hausa": "akwai kichin?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there laundry?",
+        "hausa": "akwai gurin wanke kaya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I had a great stay",
+        "hausa": "na ji dadin zama na",
+        "id": "accomodationTranslation"
+    },
+
+
+    {
+        "english": "dark color",
+        "hausa": "kala mai duhu",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "light color",
+        "hausa": "kala mai haske",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "black",
+        "hausa": "baki",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "red",
+        "hausa": "ja",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "green",
+        "hausa": "ruwan ganye",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "yellow",
+        "hausa": "ruwan kwai",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "blue",
+        "hausa": "bula",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "white",
+        "hausa": "fari",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "gold",
+        "hausa": "kalan zinari",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "silver",
+        "hausa": "kalan azalfa",
+        "id": "colorsTranslation"
+    },
+
+
+
+    {
+        "english": "Airport",
+        "hausa": "gidan jirgin sama",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'd like to go to the the nearest car park",
+        "hausa": "ina son in je gareji da ke kusa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'd like to go to the nearest airport",
+        "hausa": "ina son in je gidan jirgin sama da ke kusa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Can you help me get to...?",
+        "hausa": "za iya a taimake ni in je ...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where do I buy ticket?",
+        "hausa": "ina zan siya tickets?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm traveling with a child",
+        "hausa": "ina tafiya da jariri",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I am with a child (pregnancy)",
+        "hausa": "ina dauke da chiki",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm traveling with children",
+        "hausa": "ina tafiya da yara",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Train station",
+        "hausa": "gidan jirgin kasa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "What is this place?",
+        "hausa": "ina ne nan?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "What is the next stop?",
+        "hausa": "a ina ne za a sauka kuma?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I want to drop at...",
+        "hausa": "ina son in sauka a ...",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Does it stop at...?",
+        "hausa": "ana sauka a ...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do I need to change?",
+        "hausa": "dolle in chanza?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Which line goes to...?",
+        "hausa": "wani layi ke zuwan...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where is the nearest train station?",
+        "hausa": "ina na gidan jirgin kasa da ke kusa?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where is the nearest car park?",
+        "hausa": "ina ne gareji da ke kusa?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is it a direct trip?",
+        "hausa": "sauka daya ne?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "First class",
+        "hausa": "first class",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Dining section",
+        "hausa": "kpangaren chin abinchi",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Boat",
+        "hausa": "jirgin ruwa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How long is trip to...?",
+        "hausa": "awa nawa ne tafiya zuwa...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I feel roadsick",
+        "hausa": "ba na jin dadin jiki saboda hanyar",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I feel seasick",
+        "hausa": "ba na jin dadin jiki saboda ruwan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Car",
+        "hausa": "mota",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Can I hire car?",
+        "hausa": "zan iya hayan mota?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much for a day?",
+        "hausa": "nawa ne a kan rana daya?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much for a week?",
+        "hausa": "nawa ne a kan sati daya?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Does it include insurance?",
+        "hausa": "tana kulla da insurance?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Taxi",
+        "hausa": "taxi",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please turn on radio / music",
+        "hausa": "dan kunna rediyo ko waka",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please turn off radio / music",
+        "hausa": "dan kashe rediyo ko waka",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please slow down",
+        "hausa": "dan je a hankali",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please stop here",
+        "hausa": "dan tsaya a nan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please speed up",
+        "hausa": "dan kara gudu",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please wait here",
+        "hausa": "dan jira a nan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much is it to...?",
+        "hausa": "nawa ne zuwa...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Motorbike",
+        "hausa": "mashin",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Bicycle",
+        "hausa": "keke",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do I need a helmet?",
+        "hausa": "dolle in sa helmet?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is there a bicycle path?",
+        "hausa": "akwai hanyar keke?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is there a car path?",
+        "hausa": "akwai hanyar mota?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm lost",
+        "hausa": "na pata",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do you have a map?",
+        "hausa": "akwai map?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "May I use your phone?",
+        "hausa": "za a iya ara mun waya?",
+        "id": "transportTranslation"
+    },
+
+
+    
+    {
+        "english": "What time does it open?",
+        "hausa": "wani lokachi a ke budewa?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "What time does it close?",
+        "hausa": "wani lokachi a ke kullewa?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Do I have to pay to get in?",
+        "hausa": "dolle in biya kamin in shiga chiki?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Can I take photos?",
+        "hausa": "zan iya daukar hotuna?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "I like this place",
+        "hausa": "ina son gurin nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Can you bring me here again?",
+        "hausa": "za a iya kawo ni nan kuma?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Here is my phone number",
+        "hausa": "ga lambar waya na",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "You can call me when next this place is opening",
+        "hausa": "a kira ni idan aka sake bude nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Call me when this place is closing",
+        "hausa": "a kira ni a yayin da za kulle nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "I truly appreciate this place",
+        "hausa": "na gode sosai",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Where can i get something to eat around here?",
+        "hausa": "ina zan samu abin chi a nan?",
+        "id": "touristTranslation"
+    },
+
+
+    {
+        "english": "where is the nearest shopping mall?",
+        "hausa": "ina ne shago da ke kusa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you direct me to the market?",
+        "hausa": "za a iya nuna mun hanyar kasuwa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "how much does it cost?",
+        "hausa": "nawa ne?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you write down the price?",
+        "hausa": "za a iya rubuta mun prashin sa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you make it cheaper?",
+        "hausa": "za a iya dan rage prashin?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you take credit card?",
+        "hausa": "ana ansar katin ATM?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "cash",
+        "hausa": "kudi",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i have it wrapped?",
+        "hausa": "zan iya rufe mun a leda?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i am just looking",
+        "hausa": "kawai kallo na ke yi",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little too expensive",
+        "hausa": "prashin ta yi sama",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have a different color?",
+        "hausa": "akwai kala daban?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have it bigger?",
+        "hausa": "akwai mai dan girma?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have it smaller?",
+        "hausa": "akwai karamin sa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i try it on?",
+        "hausa": "zan iya gwada?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little tight",
+        "hausa": "ya matse kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little loose",
+        "hausa": "tayi paadi kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "my size is...",
+        "hausa": "size dina ...",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "small",
+        "hausa": "karami",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "large",
+        "hausa": "babba",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "medium",
+        "hausa": "babba kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "extra large",
+        "hausa": "mai girma sosai",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have a new one?",
+        "hausa": "akwai sabo?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "where can i pay?",
+        "hausa": "a ina zan biya?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "too short",
+        "hausa": "tayi gajere da yawa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "too long",
+        "hausa": "tayi tsayi da yawa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i will take this one",
+        "hausa": "zan dauka wannan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i don't want bag",
+        "hausa": "ba na son jaka",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i have a bag please",
+        "hausa": "zan iya samun jaka?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i don't want it",
+        "hausa": "ba na so",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i will think about it",
+        "hausa": "zan yi tunani a kan sa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "ring",
+        "hausa": "zobe",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "watch",
+        "hausa": "agogo",
+        "id": "shopTranslation"
+    },
+
+
+    {
+        "english": "breakfast",
+        "hausa": "abinchin safe",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "lunch",
+        "hausa": "abinchin rana",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "dinner",
+        "hausa": "abinchin yamma",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "food",
+        "hausa": "abinchi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "meat",
+        "hausa": "nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "beef",
+        "hausa": "naman shanu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "chicken",
+        "hausa": "naman kaza",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "eggs",
+        "hausa": "kwai",
+        "id": "eatingTranslation"
+    },{
+        "english": "fish",
+        "hausa": "kifi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "vegetables",
+        "hausa": "ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "bread",
+        "hausa": "bredi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "yogurt",
+        "hausa": "yogurt",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "rice",
+        "hausa": "shinkafa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "beans",
+        "hausa": "wake",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salad",
+        "hausa": "salad",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "soup",
+        "hausa": "miya",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "fries",
+        "hausa": "abun da aka soya",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "ice cream",
+        "hausa": "ice cream",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sugar",
+        "hausa": "suga",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salt",
+        "hausa": "gishiri",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "pepper",
+        "hausa": "pepe",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "vegetable oil",
+        "hausa": "mai din ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "olive oil",
+        "hausa": "mai zaitun ",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "herbs",
+        "hausa": "ganye",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "garlic",
+        "hausa": "tapanuwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "stew",
+        "hausa": "miya tumatiri",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "fork",
+        "hausa": "fork",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "knive",
+        "hausa": "wuka",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "spoon",
+        "hausa": "chokali",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "glass",
+        "hausa": "glasi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "tea cup",
+        "hausa": "kofin tea",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "plate",
+        "hausa": "kwanu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "hot (temperature)",
+        "hausa": "zafi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "cold (temperature)",
+        "hausa": "sanyi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "delicious",
+        "hausa": "dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "salty",
+        "hausa": "da gishiri sosai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sweet",
+        "hausa": "dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "sour",
+        "hausa": "tsami",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "hot (spicy)",
+        "hausa": "akwai pepe sosai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am hungry",
+        "hausa": "ina jin yunwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am full",
+        "hausa": "na chika",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i love this dish",
+        "hausa": "ina son abinchin nan",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "what is it called?",
+        "hausa": "me ake kiran ta?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "this food is delicious",
+        "hausa": "abinchin nan da dadi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am a vegetarian",
+        "hausa": "ba na chin nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "restaurant",
+        "hausa": "gurin chin abinchi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "make reservations for two table",
+        "hausa": "a ajiye gurin mutane biyu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have a menu?",
+        "hausa": "zan iya ganin menu?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i hae the drink menu?",
+        "hausa": "zan iya ganin menu na abun sha?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "what do you recommend?",
+        "hausa": "me ya kamata in dauka?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i order some food?",
+        "hausa": "Sannu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't eat meat",
+        "hausa": "ba na chin nama",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't eat eggs",
+        "hausa": "ba na chin kwai",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i am alergic to...",
+        "hausa": "Sannu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "butter",
+        "hausa": "bota",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "dairy products",
+        "hausa": "abubuwan madara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "wheat",
+        "hausa": "alkaki",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "honey",
+        "hausa": "zuma",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "chili",
+        "hausa": "tarugu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i'd like it without...",
+        "hausa": "ina so ama ba tare da...",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "bill, please!",
+        "hausa": "nawa ne?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "take away/take home",
+        "hausa": "zan tafi da ita",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "to drink",
+        "hausa": "zan sha",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "to eat",
+        "hausa": "zan chi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "coffee",
+        "hausa": "kofi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "tea",
+        "hausa": "shayi",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "water",
+        "hausa": "ruwa",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "juice",
+        "hausa": "joos",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "orange drink",
+        "hausa": "joos din lemu",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "ice, please!",
+        "hausa": "a kawo kankara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "no ice, please",
+        "hausa": "kar a sa kankara",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "i don't feel very well",
+        "hausa": "ba na jin dadin jiki",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "where is the toilet?",
+        "hausa": "ina toilet?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have this place's phone number?",
+        "hausa": "zan iya samun lambar wayan gurin nan?",
+        "id": "eatingTranslation"
+    },
+    {
+        "english": "can i have this place's address?",
+        "hausa": "zan iya samun adreshin gurin nan?",
+        "id": "eatingTranslation"
+    },
+
+    {
+        "english": "Yes",
+        "hausa": "eh",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No",
+        "hausa": "a'a",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you understand?",
+        "hausa": "an gane?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't understand",
+        "hausa": "ban gane ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I understand",
+        "hausa": "na gane",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Thank you",
+        "hausa": "na gode",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Please...",
+        "hausa": "dan Allah",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm sorry (apology)",
+        "hausa": "ayi hakuri",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Please, say that again",
+        "hausa": "dan kara maimaitawa",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Can you speak slowly?",
+        "hausa": "za a iya magana a hankali?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm sorry (sympathy)",
+        "hausa": "sannu",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "It's alright (I'm ok)",
+        "hausa": "bakomai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't know",
+        "hausa": "ban sani ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I don't like it",
+        "hausa": "ba na so",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I like it",
+        "hausa": "ina so",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "You are welcome",
+        "hausa": "barka",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "With my pleasure",
+        "hausa": "da godiya",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I would like/ I want...",
+        "hausa": "ina son...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "May I use your phone?",
+        "hausa": "zan iya amfani da wayan ka?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Are you sure?",
+        "hausa": "an tambata?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Can you speak English?",
+        "hausa": "ana jin turanchi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No, thanks",
+        "hausa": "a'a, na gode",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No, that's wrong",
+        "hausa": "a'a, bai kamata ba",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "That's right",
+        "hausa": "tayi daidai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "No problem",
+        "hausa": "ba damuwa",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Help!",
+        "hausa": "a taimaka!",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Help! Thief!",
+        "hausa": "a taimaka! parawo!",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What?",
+        "hausa": "me?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How many?",
+        "hausa": "guda nawa?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How much?",
+        "hausa": "nawa ne?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where?",
+        "hausa": "a ina?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "How much is this?",
+        "hausa": "nawa ne wanan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Is there?",
+        "hausa": "akwai?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Are there?",
+        "hausa": "akwai?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What are you doing?",
+        "hausa": "me kake yi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What do you want?",
+        "hausa": "me kuke so?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where are you going?",
+        "hausa": "me kuke yi?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm going to...",
+        "hausa": "zan je...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Where are we going?",
+        "hausa": "ina zamu je?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "We are going to...",
+        "hausa": "zamu je...",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "When is your birthday?",
+        "hausa": "yaushe ne ranar haihuwar ka?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "What is happening now?",
+        "hausa": "me ke faruwa yanzu?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Don't forget",
+        "hausa": "kar a manta",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Excuse me",
+        "hausa": "barka dai",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you live here?",
+        "hausa": "kuna tsayawa a nan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Do you like it here?",
+        "hausa": "kuna jin dadin zama a nan?",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I love it here",
+        "hausa": "ina jin dadin nan",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here on holiday",
+        "hausa": "na zo hutu ne",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here for business",
+        "hausa": "na zo saboda kasuwanchi",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here to work",
+        "hausa": "na zo saboda aiki",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "I'm here to study",
+        "hausa": "na zo saboda karatu",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "Just kidding",
+        "hausa": "wasa na ke yi",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "This is my first time here",
+        "hausa": "zuwa na ta farko ke ga",
+        "id": "generalConversationTranslation"
+    },
+    {
+        "english": "We're on our honey moon",
+        "hausa": "mun zo hutun mata da miji ne",
+        "id": "generalConversationTranslation"
+    }
+]

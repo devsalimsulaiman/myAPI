@@ -1,0 +1,227 @@
+[
+    {
+        "english": "Airport",
+        "hausa": "gidan jirgin sama",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'd like to go to the the nearest car park",
+        "hausa": "ina son in je gareji da ke kusa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'd like to go to the nearest airport",
+        "hausa": "ina son in je gidan jirgin sama da ke kusa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Can you help me get to...?",
+        "hausa": "za iya a taimake ni in je ...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where do I buy ticket?",
+        "hausa": "ina zan siya tickets?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm traveling with a child",
+        "hausa": "ina tafiya da jariri",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I am with a child (pregnancy)",
+        "hausa": "ina dauke da chiki",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm traveling with children",
+        "hausa": "ina tafiya da yara",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Train station",
+        "hausa": "gidan jirgin kasa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "What is this place?",
+        "hausa": "ina ne nan?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "What is the next stop?",
+        "hausa": "a ina ne za a sauka kuma?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I want to drop at...",
+        "hausa": "ina son in sauka a ...",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Does it stop at...?",
+        "hausa": "ana sauka a ...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do I need to change?",
+        "hausa": "dolle in chanza?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Which line goes to...?",
+        "hausa": "wani layi ke zuwan...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where is the nearest train station?",
+        "hausa": "ina na gidan jirgin kasa da ke kusa?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Where is the nearest car park?",
+        "hausa": "ina ne gareji da ke kusa?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is it a direct trip?",
+        "hausa": "sauka daya ne?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "First class",
+        "hausa": "first class",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Dining section",
+        "hausa": "kpangaren chin abinchi",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Boat",
+        "hausa": "jirgin ruwa",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How long is trip to...?",
+        "hausa": "awa nawa ne tafiya zuwa...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I feel roadsick",
+        "hausa": "ba na jin dadin jiki saboda hanyar",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I feel seasick",
+        "hausa": "ba na jin dadin jiki saboda ruwan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Car",
+        "hausa": "mota",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Can I hire car?",
+        "hausa": "zan iya hayan mota?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much for a day?",
+        "hausa": "nawa ne a kan rana daya?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much for a week?",
+        "hausa": "nawa ne a kan sati daya?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Does it include insurance?",
+        "hausa": "tana kulla da insurance?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Taxi",
+        "hausa": "taxi",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please turn on radio / music",
+        "hausa": "dan kunna rediyo ko waka",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please turn off radio / music",
+        "hausa": "dan kashe rediyo ko waka",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please slow down",
+        "hausa": "dan je a hankali",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please stop here",
+        "hausa": "dan tsaya a nan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please speed up",
+        "hausa": "dan kara gudu",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Please wait here",
+        "hausa": "dan jira a nan",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "How much is it to...?",
+        "hausa": "nawa ne zuwa...?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Motorbike",
+        "hausa": "mashin",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Bicycle",
+        "hausa": "keke",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do I need a helmet?",
+        "hausa": "dolle in sa helmet?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is there a bicycle path?",
+        "hausa": "akwai hanyar keke?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Is there a car path?",
+        "hausa": "akwai hanyar mota?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "I'm lost",
+        "hausa": "na pata",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "Do you have a map?",
+        "hausa": "akwai map?",
+        "id": "transportTranslation"
+    },
+    {
+        "english": "May I use your phone?",
+        "hausa": "za a iya ara mun waya?",
+        "id": "transportTranslation"
+    }
+]

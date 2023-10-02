@@ -1,0 +1,16 @@
+[
+    {
+        "id": 160,
+        "title": "shop 1",
+        "type": "shopping",
+        "url": "/shop-1",
+        "avatar": "../assets/logo/shop-1.jpg"
+    },
+    {
+        "id": 161,
+        "title": "shop-2",
+        "type": "shopping",
+        "url": "/shop-2",
+        "avatar": "../assets/logo/shop-2.jpg"
+    }
+]

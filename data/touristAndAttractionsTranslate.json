@@ -1,0 +1,57 @@
+[
+    {
+        "english": "What time does it open?",
+        "hausa": "wani lokachi a ke budewa?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "What time does it close?",
+        "hausa": "wani lokachi a ke kullewa?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Do I have to pay to get in?",
+        "hausa": "dolle in biya kamin in shiga chiki?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Can I take photos?",
+        "hausa": "zan iya daukar hotuna?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "I like this place",
+        "hausa": "ina son gurin nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Can you bring me here again?",
+        "hausa": "za a iya kawo ni nan kuma?",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Here is my phone number",
+        "hausa": "ga lambar waya na",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "You can call me when next this place is opening",
+        "hausa": "a kira ni idan aka sake bude nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Call me when this place is closing",
+        "hausa": "a kira ni a yayin da za kulle nan",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "I truly appreciate this place",
+        "hausa": "na gode sosai",
+        "id": "touristTranslation"
+    },
+    {
+        "english": "Where can i get something to eat around here?",
+        "hausa": "ina zan samu abin chi a nan?",
+        "id": "touristTranslation"
+    }
+]

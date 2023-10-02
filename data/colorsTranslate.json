@@ -1,0 +1,52 @@
+[
+    {
+        "english": "dark color",
+        "hausa": "kala mai duhu",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "light color",
+        "hausa": "kala mai haske",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "black",
+        "hausa": "baki",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "red",
+        "hausa": "ja",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "green",
+        "hausa": "ruwan ganye",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "yellow",
+        "hausa": "ruwan kwai",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "blue",
+        "hausa": "bula",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "white",
+        "hausa": "fari",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "gold",
+        "hausa": "kalan zinari",
+        "id": "colorsTranslation"
+    },
+    {
+        "english": "silver",
+        "hausa": "kalan azalfa",
+        "id": "colorsTranslation"
+    }
+]

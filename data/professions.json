@@ -1,0 +1,17 @@
+[
+    {
+        "id": 100,
+        "title": "Belamin Blings",
+        "avatar": "../assets/logo/belamin-blings.jpg"
+    },
+    {
+        "id": 101,
+        "title": "MetroLabx",
+        "avatar": "../assets/logo/metroLabx.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Fams Food",
+        "avatar": "../assets/logo/fams-food.jpg"
+    }
+]

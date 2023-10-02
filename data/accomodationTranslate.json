@@ -1,0 +1,207 @@
+[
+    {
+        "english": "Hotel",
+        "hausa": "hotel",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Motel",
+        "hausa": "gidan kwana",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Guesthouse",
+        "hausa": "gidan baaki",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Bed and Breakfast",
+        "hausa": "gado da abinchin saafe",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Campsite",
+        "hausa": "gurin daji",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Where is the nearest hotel?",
+        "hausa": "ina ne hotel da ke kusa?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Where is the nearest guesthouse?",
+        "hausa": "ina ne gidan baki da ke kusa?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can you recommend somewhere good?",
+        "hausa": "za a iya nuna mun guri mai kyau?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Nearby",
+        "hausa": "a kusa",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Cheap",
+        "hausa": "wanda ba tsada",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "In the city",
+        "hausa": "a cikin birni",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Do you have room for tonight?",
+        "hausa": "akwai daki ma daren nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Single room",
+        "hausa": "daki daya",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Double room",
+        "hausa": "dakuna biyu",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Suite",
+        "hausa": "sut",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there en-suite bathroom?",
+        "hausa": "akwai toilet mai matsayi?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there a safe?",
+        "hausa": "akwai loka mai makulli?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there hot water heater?",
+        "hausa": "akwai heeta na ruwan zafi?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there central heating?",
+        "hausa": "akwai AC mai kara zafi a daki?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is breakfast included?",
+        "hausa": "tare da abinchin safe?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "When is breakfast served?",
+        "hausa": "yaushe a ke bada abinchin safe?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per night to stay?",
+        "hausa": "nawa ne idan zan kwana dare daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per week to stay?",
+        "hausa": "nawa ne idan zan kwana sati daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "How much per month to stay?",
+        "hausa": "nawa ne idan zan kwana wata daya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "May i see it?",
+        "hausa": "zan iya gani?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'll take it",
+        "hausa": "zan karba",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I have a room reservation",
+        "hausa": "ina da daki da aka ajiye mun",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like to check-in",
+        "hausa": "zan so in shiga",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like to check-out",
+        "hausa": "zan so in fita",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "What time is checkout?",
+        "hausa": "wani lokachi zan fita?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i leave my bags here?",
+        "hausa": "zan iya barin jaka na a nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i change room?",
+        "hausa": "zan iya chanza daki?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can I see double room?",
+        "hausa": "zan iya ganin guri mai daki biyu?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I want a room with good view",
+        "hausa": "ina son daki mai windo da zan iya ganin gari",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I'd like a non-smoking room please",
+        "hausa": "ina son gurin da ba shan taba",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there a message for me?",
+        "hausa": "akwai sako mun?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I left my key in the room",
+        "hausa": "na bar makuli na a daki",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Can i do money exchange here?",
+        "hausa": "zan iya chanza kudi a nan?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there kitchen?",
+        "hausa": "akwai kichin?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "Is there laundry?",
+        "hausa": "akwai gurin wanke kaya?",
+        "id": "accomodationTranslation"
+    },
+    {
+        "english": "I had a great stay",
+        "hausa": "na ji dadin zama na",
+        "id": "accomodationTranslation"
+    }
+]

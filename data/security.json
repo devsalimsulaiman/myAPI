@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "security-1",
+        "phone": "90909090"
+    },
+    {
+        "id": 2,
+        "title": "security-2",
+        "phone": "3333909090"
+    },
+    {
+        "id": 3,
+        "title": "Road Safety",
+        "phone": "027120057"
+    },
+    {
+        "id": 4,
+        "title": "Vehicle Inspection Office",
+        "phone": "2327120057"
+    },
+    {
+        "id": 3,
+        "title": "Police Station Central",
+        "phone": "2327120057"
+    },
+    {
+        "id": 4,
+        "title": "Police Station 1",
+        "phone": "2327120057"
+    },
+    {
+        "id": 5,
+        "title": "Police Station 2",
+        "phone": "2327120057"
+    },
+    {
+        "id": 6,
+        "title": "Nigerian Army",
+        "phone": "2327120057"
+    },
+    {
+        "id": 7,
+        "title": "Custom Office",
+        "phone": "2327120057"
+    }
+]

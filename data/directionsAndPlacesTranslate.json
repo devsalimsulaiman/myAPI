@@ -1,0 +1,263 @@
+[
+    {
+        "english": "Where is ...?",
+        "hausa": "ina ...?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "How far is it?",
+        "hausa": "awa nawa ne?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "How do i get there?",
+        "hausa": "ya zan kai gurin?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Can you show me where it is on the map?",
+        "hausa": "dan nuna mun a kan map",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "North",
+        "hausa": "arewa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "South",
+        "hausa": "kudu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "East",
+        "hausa": "gabas",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "West",
+        "hausa": "yamma",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Cross the street",
+        "hausa": "tsallaka titi",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Turn left",
+        "hausa": "mike hanun hagu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Turn right",
+        "hausa": "mike hanun dama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Up",
+        "hausa": "sama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Down",
+        "hausa": "kasa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Go straight",
+        "hausa": "mike gaba",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Left",
+        "hausa": "hagu",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Right",
+        "hausa": "dama",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "In front of",
+        "hausa": "a gaban",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Behind",
+        "hausa": "a bayan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Under",
+        "hausa": "karkashin",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "On top",
+        "hausa": "saman",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Opposite",
+        "hausa": "a gaban",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Near",
+        "hausa": "kusa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Far",
+        "hausa": "nisa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "On the corner",
+        "hausa": "a kona",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "It's straight ahead",
+        "hausa": "tana chan gaba",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "There",
+        "hausa": "chan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Here",
+        "hausa": "nan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Towards the traffic lights",
+        "hausa": "ta gurin traffic",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Can you take me there?",
+        "hausa": "za a iya kaini gurin?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the Airport?",
+        "hausa": "ina airport?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the bus stop?",
+        "hausa": "ina bus ke tsaya wa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the train station?",
+        "hausa": "ina gidan jirgin kasa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the bank?",
+        "hausa": "ina banki?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the store?",
+        "hausa": "ina shago?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the hotel?",
+        "hausa": "ina hotel?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the internet cafe?",
+        "hausa": "ina cafe din computa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the market?",
+        "hausa": "ina kasuwa?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the police station?",
+        "hausa": "ina police station?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the post office?",
+        "hausa": "ina post office? (ina gidan mika sako?)",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the cinema?",
+        "hausa": "ina gidan kallon fim?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is ...?",
+        "hausa": "ina...?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the school?",
+        "hausa": "ina makaranta?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the house?",
+        "hausa": "ina gidan?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Some short minutes walk",
+        "hausa": "tafiya dan mintsi kadan",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Go by vehicle",
+        "hausa": "je da abun hawa",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Bridge",
+        "hausa": "flai ova",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Road",
+        "hausa": "hanya",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Tunnel",
+        "hausa": "rami",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Park",
+        "hausa": "gareji",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Toilet / Bathroom",
+        "hausa": "toilet",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is the toilet / bathroom?",
+        "hausa": "ina toilet? / ina gidan wanka?",
+        "id": "directionsTranslation"
+    },
+    {
+        "english": "Where is this place?",
+        "hausa": "ina ne nan?",
+        "id": "directionsTranslation"
+    }
+
+]

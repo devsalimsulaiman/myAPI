@@ -1,0 +1,162 @@
+[
+    {
+        "english": "where is the nearest shopping mall?",
+        "hausa": "ina ne shago da ke kusa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you direct me to the market?",
+        "hausa": "za a iya nuna mun hanyar kasuwa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "how much does it cost?",
+        "hausa": "nawa ne?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you write down the price?",
+        "hausa": "za a iya rubuta mun prashin sa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can you make it cheaper?",
+        "hausa": "za a iya dan rage prashin?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you take credit card?",
+        "hausa": "ana ansar katin ATM?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "cash",
+        "hausa": "kudi",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i have it wrapped?",
+        "hausa": "zan iya rufe mun a leda?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i am just looking",
+        "hausa": "kawai kallo na ke yi",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little too expensive",
+        "hausa": "prashin ta yi sama",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have a different color?",
+        "hausa": "akwai kala daban?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have it bigger?",
+        "hausa": "akwai mai dan girma?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have it smaller?",
+        "hausa": "akwai karamin sa?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i try it on?",
+        "hausa": "zan iya gwada?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little tight",
+        "hausa": "ya matse kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "a little loose",
+        "hausa": "tayi paadi kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "my size is...",
+        "hausa": "size dina ...",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "small",
+        "hausa": "karami",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "large",
+        "hausa": "babba",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "medium",
+        "hausa": "babba kadan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "extra large",
+        "hausa": "mai girma sosai",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "do you have a new one?",
+        "hausa": "akwai sabo?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "where can i pay?",
+        "hausa": "a ina zan biya?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "too short",
+        "hausa": "tayi gajere da yawa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "too long",
+        "hausa": "tayi tsayi da yawa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i will take this one",
+        "hausa": "zan dauka wannan",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i don't want bag",
+        "hausa": "ba na son jaka",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "can i have a bag please",
+        "hausa": "zan iya samun jaka?",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i don't want it",
+        "hausa": "ba na so",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "i will think about it",
+        "hausa": "zan yi tunani a kan sa",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "ring",
+        "hausa": "zobe",
+        "id": "shopTranslation"
+    },
+    {
+        "english": "watch",
+        "hausa": "agogo",
+        "id": "shopTranslation"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "from": "chanchaga",
+        "to": "city gate",
+        "cost": 100,
+        "description": "There is a direct road channel from Chanchaga to City Gate with the cost calculated. You can travel this in one drop. Safe roads!"
+    },
+    {
+        "from": "chanchaga",
+        "to": "tunga",
+        "cost": 150,
+        "description": "There is a direct road channel from Chanchaga to Tunga with the cost calculated. You can travel this in one drop. Although there is there a breakpoint between these two points (City Gate). You can see cost from Cith Gate to another point if you wish to take a stop there. Safe roads!"
+    },
+    {
+        "from": "chanchaga",
+        "to": "bosso",
+        "cost": 300,
+        "description": "hello chanchaga to bosso"
+    },
+    {
+        "from": "chanchaga",
+        "to": "kpakungu",
+        "cost": 200,
+        "description": "hello chanchaga to kpakungu"
+    },
+    {
+        "from": "chanchaga",
+        "to": "shiroro",
+        "cost": 150,
+        "description": "hello chanchaga to shiroro"
+    },
+    {
+        "from": "chanchaga",
+        "to": "nnpc junction",
+        "cost": 150,
+        "description": "hello chanchaga to nnpc"
+    },
+    {
+        "from": "chanchaga",
+        "to": "maitumbi",
+        "cost": 300,
+        "description": "hello chanchaga to maitumbi"
+    },
+    {
+        "from": "chanchaga",
+        "to": "jamb office",
+        "cost": 200,
+        "description": "hello chanchaga to jamb"
+    },
+    {
+        "from": "chanchaga",
+        "to": "mi wushishi estate",
+        "cost": 150,
+        "description": "hello chanchaga to mi wushishi estate"
+    },
+    {
+        "from": "chanchaga",
+        "to": "mobil",
+        "cost": 200,
+        "description": "hello chanchaga to mobile"
+    },
+    {
+        "from": "chanchaga",
+        "to": "bosso estate",
+        "cost": 400,
+        "description": "hello chanchaga to bosso estate"
+    },
+    {
+        "from": "chanchaga",
+        "to": "new market",
+        "cost": 300,
+        "description": "hello chanchaga to new market"
+    },
+    {
+        "from": "chanchaga",
+        "to": "dutsen kuran gwari",
+        "cost": 300,
+        "description": "hello chanchaga to dutsen kuran gwari"
+    }
+]

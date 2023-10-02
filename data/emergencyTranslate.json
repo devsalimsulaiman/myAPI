@@ -1,0 +1,132 @@
+[
+    {
+        "english": "it is an emergency",
+        "hausa": "da tsananani",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have lost my passport",
+        "hausa": "na patar da passport na",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have lost my wallet",
+        "hausa": "na patar da wallet na",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "where is the nearst police station?",
+        "hausa": "ina police station na kusa?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "Help!",
+        "hausa": "a taimaka!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "where is the nearest hospital?",
+        "hausa": "ina asibiti na kusa?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "I need a doctor",
+        "hausa": "ina neman likita",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "call a doctor",
+        "hausa": "a kira likita",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "call an ambulance",
+        "hausa": "a kira motar asibiti",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "could you help me, please?",
+        "hausa": "za a iya taimaka mun?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "fire!",
+        "hausa": "wuta!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have run out of gas",
+        "hausa": "mai na ya kare",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i am lost, please help",
+        "hausa": "na pata, a taimaka mun",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "police station",
+        "hausa": "police station",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "police",
+        "hausa": "police",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i have been mugged?",
+        "hausa": "an yi mun sata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "stop!",
+        "hausa": "tsaya!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "thief!",
+        "hausa": "parawo!",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i apologise",
+        "hausa": "na bada hakuri",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "can i use your telephone",
+        "hausa": "zan iya amfani da wayan ka?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "my wife is missing",
+        "hausa": "mata na ta pata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "my husband is missing",
+        "hausa": "miji na ya pata",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i am sorry (feeling)",
+        "hausa": "ban ji dadin haka ba",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "i didn't do it",
+        "hausa": "ban yi ba",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "can i have someone who can speak English?",
+        "hausa": "zan iya ganin wanda ya iya turanchi?",
+        "id": "emergencyTranslation"
+    },
+    {
+        "english": "does anyone here speak English?",
+        "hausa": "akwai wanda ya iya turanchi a nan?",
+        "id": "emergencyTranslation"
+    }
+]
