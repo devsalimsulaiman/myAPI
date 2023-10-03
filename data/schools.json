@@ -3,84 +3,156 @@
         "id": 130,
         "title": "College of Education",
         "type": "schools",
-        "url": "/college-of-education",
-        "avatar": "../assets/logo/college-of-education.jpg"
+        "about": "AWARDS NCE. The Niger State College of Education, Minna was established as an Advanced Teachers' College by the defunct North Western State Government in 1st November, 1975 when there was need to establish an additional Advanced Teachers' College in order to meet the soaring teachers needs in the State.",
+        "sections": "Educational courses all round.",
+        "phone": "08132100022",
+        "entry": "UTME (160), O'level (Maths and English) plus any other 3 relevant courses of your field. See website for relevants.",
+        "website": "https://coeminna.edu.ng/",
+        "image": "../assets/logo/college-of-education.jpg",
+        "latitude": 9.571895984411064, 
+        "longitude": 6.577487634420112
     },
     {
         "id": 131,
         "title": "Day Secondary School",
         "type": "schools",
-        "url": "/day-secondary-school",
-        "avatar": "../assets/logo/day-secondary-school.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/day-secondary-school.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 132,
-        "title": "Federal University of Technology 1",
+        "title": "Federal University of Technology (Bosso)",
         "type": "schools",
-        "url": "/federal-university-of-technology-1",
-        "avatar": "../assets/logo/federal-university-of-technology.jpg"
+        "about": "Federal University of Technology Minna is a Federal Government owned University located in Minna, Nigeria. FUT MINNA specializes in technological education. Offering Bachelor's of Technology, Master's of Technology in various technology inclined field.",
+        "sections": "Conventional University. Sciences, Technology, business technology.",
+        "phone": "07035862582",
+        "entry": "UTME, DE, IJMB, Special Admission.",
+        "website": "https://futminna.edu.ng/home/",
+        "image": "../assets/logo/federal-university-of-technology.jpg",
+        "latitude": 9.656201879894944, 
+        "longitude": 6.530101382284675
     },
     {
         "id": 133,
-        "title": "Federal University of Technology 2",
+        "title": "Federal University of Technology (Gidan Kwanu)",
         "type": "schools",
-        "url": "/federal-university-of-technology-2",
-        "avatar": "../assets/logo/federal-university-of-technology.jpg"
+        "about": "Federal University of Technology Minna is a Federal Government owned University located in Minna, Nigeria. FUT MINNA specializes in technological education. Offering Bachelor's of Technology, Master's of Technology in various technology inclined field.",
+        "sections": "Conventional University. Sciences, Technology, business technology.",
+        "phone": "07035862582",
+        "entry": "UTME, DE, IJMB, Special Admission.",
+        "website": "https://futminna.edu.ng/home/",
+        "image": "../assets/logo/federal-university-of-technology.jpg",
+        "latitude": 9.53387290685275, 
+        "longitude": 6.4499088556234465
     },
     {
         "id": 134,
         "title": "Justice Fati Law",
         "type": "schools",
-        "url": "/justice-fati-law",
-        "avatar": "../assets/logo/justice-fati-law.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/justice-fati-law.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 135,
         "title": "federal Government College Staff",
         "type": "schools",
-        "url": "/federal-government-college-staff",
-        "avatar": "../assets/logo/federal-government-college-staff.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/federal-government-college-staff.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 136,
         "title": "Federal Government College 1",
         "type": "schools",
-        "url": "/federal-government-college-1",
-        "avatar": "../assets/logo/federal-government-college-1.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/federal-government-college-1.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 137,
         "title": "Federal Government College 2",
         "type": "schools",
-        "url": "/federal-government-college-2",
-        "avatar": "../assets/logo/federal-government-college-2.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/federal-government-college-2.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 138,
         "title": "Galaxy International School",
         "type": "schools",
-        "url": "/galaxy-international-school",
-        "avatar": "../assets/logo/galaxy-international-school.jpg"
+        "about": "Galaxy International School Minna, was established in September 2007, and it started with seven pupil/students and a few staff, but today, it has taken a center stage among private schools in Niger State. The school is located on a serene environment with a beautiful structures, spacious classroms and above all, well trained, dynamic and perssionately committed staff. Following outstanding performances in both private and public examinations, the school has stand tall among school within and outside the state. Hence it has been adjudge THE SCHOOL OF FIRST CHOICE by various individuals and organizations through numerious awards and recognition. These achivements are supported by innovation and teaching Technology designed to make teaching and learning easier. The school has well-equiped Labouratories, Library, ICT center that also provide support for learning at the school. The school operate Kindergarten, Nursery, Primary and Secondary. NOTE: There is afordable boarding for Primary and Secondary section.",
+        "sections": "Nursery, Primary, Junior Secondary, Senior Secondary.",
+        "phone": "08057455047",
+        "entry": "Nursery, Primary, Junior Secondary, Senior Secondary.",
+        "website": "https://www.degalaxyschool.com.ng/international/",
+        "image": "../assets/logo/galaxy-international-school.jpg",
+        "latitude": 9.58372518054126,
+        "longitude": 6.547712784129512
     },
     {
         "id": 139,
         "title": "Government Girls Day Bosso",
         "type": "schools",
-        "url": "/government-girls-day-bosso",
-        "avatar": "../assets/logo/government-girls-day-bosso.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/government-girls-day-bosso.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 140,
         "title": "Hilltop Model School",
         "type": "schools",
-        "url": "/hilltop-model-school",
-        "avatar": "../assets/logo/hilltop-model-school.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/hilltop-model-school.jpg",
+        "latitude": 444,
+        "longitude": 66
     },
     {
         "id": 141,
         "title": "NUT Endwell Model School",
         "type": "schools",
-        "url": "/NUT-endwell-model-school",
-        "avatar": "../assets/logo/NUT-endwell-model-school.jpg"
+        "about": "",
+        "sections": "",
+        "phone": "",
+        "entry": "",
+        "website": "",
+        "image": "../assets/logo/NUT-endwell-model-school.jpg",
+        "latitude": 444,
+        "longitude": 66
     }
 ]
