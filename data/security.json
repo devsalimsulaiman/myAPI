@@ -1,47 +1,58 @@
 [
     {
-        "id": 1,
-        "title": "security-1",
-        "phone": "90909090"
-    },
-    {
-        "id": 2,
-        "title": "security-2",
-        "phone": "3333909090"
-    },
-    {
         "id": 3,
-        "title": "Road Safety",
-        "phone": "027120057"
+        "type": "security",
+        "title": "Federal Road Safety Corps",
+        "phone": "08077690702",
+        "latitude": 9.606642843349944,
+        "longitude": 6.556262316677364
     },
     {
         "id": 4,
+        "type": "security",
         "title": "Vehicle Inspection Office",
-        "phone": "2327120057"
+        "phone": "09050396021",
+        "latitude": 9.611150636667196,
+        "longitude": 6.551918024348861
     },
     {
         "id": 3,
-        "title": "Police Station Central",
-        "phone": "2327120057"
+        "type": "security",
+        "title": "Police Station Headquaters",
+        "phone": "08070438242",
+        "latitude": 9.628422351051185,
+        "longitude": 6.527144884805041
     },
     {
         "id": 4,
-        "title": "Police Station 1",
-        "phone": "2327120057"
+        "type": "security",
+        "title": "Police Station",
+        "phone": "08070438242",
+        "latitude": 9.630749437199642,
+        "longitude": 6.531779742021245
     },
     {
         "id": 5,
-        "title": "Police Station 2",
-        "phone": "2327120057"
+        "type": "security",
+        "title": "Central Police Station",
+        "phone": "08070438242",
+        "latitude": 9.623228420620968,
+        "longitude": 6.5490295758320665
     },
     {
         "id": 6,
-        "title": "Nigerian Army",
-        "phone": "2327120057"
+        "type": "security",
+        "title": "Army Baracks",
+        "phone": "07048745842",
+        "latitude": 9.558479491122,
+        "longitude": 6.569546559562754
     },
     {
         "id": 7,
+        "type": "security",
         "title": "Custom Office",
-        "phone": "2327120057"
+        "phone": "08118265659",
+        "latitude": 9.580522794409172,
+        "longitude": 6.558480514824324
     }
 ]
