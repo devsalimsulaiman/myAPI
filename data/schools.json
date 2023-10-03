@@ -146,13 +146,13 @@
         "id": 141,
         "title": "NUT Endwell Model School",
         "type": "schools",
-        "about": "",
-        "sections": "",
-        "phone": "",
-        "entry": "",
-        "website": "",
+        "about": "Educating with British and Nigeria Curriculum, embedded with Montessori School & the ICT center.",
+        "sections": "Nursery, Primary, Junior Secondary, Senior Secondary. (Boarding).",
+        "phone": "07014114359",
+        "entry": "Nursery, Primary, Junior Secondary, Senior Secondary.",
+        "website": "https://www.nutemss.com/",
         "image": "../assets/logo/NUT-endwell-model-school.jpg",
-        "latitude": 444,
-        "longitude": 66
+        "latitude": 9.544765157440184,
+        "longitude": 6.582783253770544
     }
 ]
