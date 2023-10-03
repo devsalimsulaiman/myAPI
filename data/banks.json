@@ -2,6 +2,7 @@
     {
         "id": 1,
         "title": "Access Bank",
+        "type": "banks",
         "about": "Access Bank, a wholly owned subsidiary of Access Holdings Plc (“Access Corporation”), is a leading full-service commercial bank operating through a network of more than 700 branches and service outlets, spanning 3 continents, 17 markets and 52 million customers.",
         "readMore": "https://www.accessbankplc.com/about-us",
         "opens": "8:00AM - 4:00PM",
@@ -18,6 +19,7 @@
     {
         "id": 2,
         "title": "Eco Bank",
+        "type": "banks",
         "about": "Ecobank started as an idea of setting up a bank across West Africa and then the whole of Africa for the wider business community. The Founders of the Ecobank Group envisioned an African bank for Africans. The dual objectives of Ecobank are to enable a modern pan-African bank to thrive and to contribute to the economic development and financial integration of the continent.",
         "readMore": "https://ecobank.com/group/about-us/",
         "opens": "8:00AM - 4:00PM",
@@ -34,6 +36,7 @@
     {
         "id": 3,
         "title": "Fidelity Bank",
+        "type": "banks",
         "about": "Fidelity Bank is a full-fledged commercial bank operating in Nigeria, with over 7.2 million customers who are serviced across its 250 business offices and various other digital banking channels Focused on select niche corporate banking sectors as well as Micro Small and Medium Enterprises (MSMEs), ...",
         "readMore": "https://www.fidelitybank.ng/about-us/",
         "opens": "8:00AM - 4:00PM",
@@ -50,6 +53,7 @@
     {
         "id": 4,
         "title": "First Bank",
+        "type": "banks",
         "about": "First Bank of Nigeria Limited, the premier Bank in West Africa with its impact woven into the fabric of society.",
         "readMore": "https://www.firstbanknigeria.com/home/about/",
         "opens": "8:00AM - 4:00PM",
@@ -66,6 +70,7 @@
     {
         "id": 5,
         "title": "First City Monument Bank",
+        "type": "banks",
         "about": "First City Monument Bank is a full-service banking institution headquartered in Lagos, Nigeria that provides market-proven solutions that drive digital transformation in banking.",
         "readMore": "https://www.fcmb.com/about-us",
         "opens": "8:00AM - 4:00PM",
@@ -82,6 +87,7 @@
     {
         "id": 6,
         "title": "Guarateed Trust Bank",
+        "type": "banks",
         "about": "Guaranty Trust Bank Limited (GTBank) is a multinational financial institution that provides individuals, businesses, private and public institutions across Africa and the United Kingdom with a broad range of market-leading financial products and services. Headquartered in Lagos, Nigeria...",
         "readMore": "https://www.gtbank.com/about",
         "opens": "8:00AM - 4:00PM",
@@ -98,6 +104,7 @@
     {
         "id": 7,
         "title": "Heritage Bank",
+        "type": "banks",
         "about": "We are a leading Nigerian Bank. Our goal is to deliver banking experience beyond the traditional to our customers, by consistently providing outstanding service and future-proof financial solutions. We are dedicated to providing financial products that give our customers total round-the-clock control of their money as we navigate them through the process of wealth creation.",
         "readMore": "https://www.hbng.com/about/",
         "opens": "8:00AM - 4:00PM",
@@ -114,6 +121,7 @@
     {
         "id": 8,
         "title": "Jaiz Bank",
+        "type": "banks",
         "about": "Jaiz Bank Plc, the pioneer Non-Interest Bank in Nigeria has been providing ethical services to individuals, corporate and government entities since 2012 with the mission of Making Life Better Through Ethical Finance. Since it commenced operations in 2012...",
         "readMore": "https://jaizbankplc.com/about-jaiz-bank/",
         "opens": "8:00AM - 4:00PM",
@@ -130,6 +138,7 @@
     {
         "id": 9,
         "title": "Keystone Bank",
+        "type": "banks",
         "about": "Keystone Bank is a full service commercial bank currently owned by Sigma Golf River Bank Consortium after being acquired from the Asset Management Corporation of Nigeria (AMCON) in 2017...",
         "readMore": "https://www.keystonebankng.com/about-us/",
         "opens": "8:00AM - 4:00PM",
@@ -146,6 +155,7 @@
     {
         "id": 10,
         "title": "Polaris Bank",
+        "type": "banks",
         "about": "Polaris Bank Limited is a Tier II Nigerian, private limited liability company, wholly-owned by Strategic Capital Investment Limited (SCIL) following the successful divestment of the FGN/CBN in October 2022. Licensed to provide banking and other financial services to the Nigerian public...",
         "readMore": "https://www.polarisbanklimited.com/about-us/",
         "opens": "8:00AM - 4:00PM",
@@ -162,6 +172,7 @@
     {
         "id": 11,
         "title": "Stanbic IBTC Bank",
+        "type": "banks",
         "about": "We offer all our clients a wide range of personal, business and commercial banking products through our various branches spread across  Nigeria and our online banking platforms.",
         "readMore": "https://www.stanbicibtcbank.com/nigeriabank/personal/about-us",
         "opens": "8:00AM - 4:00PM",
@@ -178,6 +189,7 @@
     {
         "id": 12,
         "title": "Sterling Bank",
+        "type": "banks",
         "about": "Sterling Bank Plc “Your one-customer bank” is a full service national commercial bank in Nigeria. At Sterling Bank, our customers are our number one priority and we value their feedback and ideas.",
         "readMore": "https://sterling.ng/about/",
         "opens": "8:00AM - 4:00PM",
@@ -194,6 +206,7 @@
     {
         "id": 13,
         "title": "Union Bank",
+        "type": "banks",
         "about": "We are Nigeria’s most reliable and trusted partner. We make lives better by delivering the simplest, smartest solutions and guaranteeing the best experience every time.",
         "readMore": "https://www.unionbankng.com/about/",
         "opens": "8:00AM - 4:00PM",
@@ -210,6 +223,7 @@
     {
         "id": 14,
         "title": "United Bank of Africa",
+        "type": "banks",
         "about": "With a history of over 72 years, UBA is one of the leading and most recognised banks to originate from sub-Saharan Africa. UBA has growing operations in 20 African countries, the UK, USA, UAE and a representative office in France.",
         "readMore": "https://www.ubagroup.com/about-uba/",
         "opens": "8:00AM - 4:00PM Weekdays",
@@ -226,6 +240,7 @@
     {
         "id": 15,
         "title": "Unity Bank",
+        "type": "banks",
         "about": "Unity Bank commenced operations in January 2006 following the merger of nine Banks with competences in investment, corporate and retail banking. Today, Unity Bank is one of Nigeria's leading retail banks with 213 business offices spread across the 36 States and Federal Capital Territory. We are Nigeria's 8th largest bank by business locations. The Bank offers wide-ranging financial services to individuals, businesses and the public sector of the nation's economy.",
         "readMore": "https://www.unitybankng.com/about-us",
         "opens": "8:00AM - 4:00PM",
@@ -242,6 +257,7 @@
     {
         "id": 16,
         "title": "Wema Bank",
+        "type": "banks",
         "about": "Wema Bank is the pioneer of Africa’s first fully digital bank, ALAT, and one of Nigeria’s most resilient banks. With decades of experience in the business of banking, the Bank has remained innovative in delivering value to its stakeholders. The publicly quoted Nigerian company has successfully built a legacy of trust and resilience that has won it the loyalty of its customers.",
         "readMore": "https://wemabank.com/about-us/",
         "opens": "8:00AM - 4:00PM",
@@ -258,6 +274,7 @@
     {
         "id": 17,
         "title": "Zenith Bank",
+        "type": "banks",
         "about": "Vision: To become the leading Nigerian, technology-driven, global financial institution that provides distinctive range of financial services. Mission: To build the zenith brand into a reputable international financial institution recognized for innovation, superior performance and creation of premium value for all stakeholders.",
         "readMore": "https://www.zenithbank.com/about-us/",
         "opens": "8:00AM - 4:00PM",
