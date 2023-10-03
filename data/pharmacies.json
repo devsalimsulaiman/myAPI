@@ -2,22 +2,71 @@
     {
         "id": 90,
         "title": "Nauzo Pharmacy",
+        "about": "Pharmacies stand as vital pillars in communities, offering a spectrum of medicines and expert advice, ensuring everyone’s well-being.",
         "type": "pharmacies",
-        "url": "/nauzo-pharmacy",
-        "avatar": "../assets/logo/nauzo-pharmacy.jpg"
+        "website": "https://m.facebook.com/page/about.php?id=171809949667344",
+        "image": "../assets/logo/nauzo-pharmacy.jpg",
+        "phone": "08030592025",
+        "opens": "MON-SAT. 9:00AM-9:00PM",
+        "delivery": "NO",
+        "services": "Approved pharmaceuticals sales, medical equipements sales, connects patients to proffesional medical assistants.",
+        "latitude": 9.602691539184224,
+        "longitude": 6.559870463036401
     },
     {
         "id": 91,
-        "title": "Shebab Pharmacy",
+        "title": "Ashrab Pharmacy",
+        "about": "Pharmacies advocate health literacy, offering not just medications but also invaluable information, promoting preventive care and empowering individuals to make informed health decisions.",
         "type": "pharmacies",
-        "url": "/shebab-pharmacy",
-        "avatar": "../assets/logo/shebab-pharmacy.jpg"
+        "website": "https://www.facebook.com/ashrabpharmacy/",
+        "image": "../assets/logo/shebab-pharmacy.jpg",
+        "phone": "07030489006",
+        "opens": "All Days. 8:00AM-9:00PM",
+        "delivery": "YES",
+        "services": "Body mass index, blood sugar measurement, blood pressure measurement, sales of drugs.",
+        "latitude": 9.6509574876793,
+        "longitude": 6.524027220827829
     },
     {
         "id": 92,
         "title": "Zagbayi Pharmacy",
+        "about": "Pharmacies serve as accessible health havens, providing prescribed medications, over-the-counter remedies, and professional consultations, fostering healthier lives.",
         "type": "pharmacies",
-        "url": "/zagbayi-pharmacy",
-        "avatar": "../assets/logo/zagbayi-pharmacy.jpg"
+        "website": "https://www.facebook.com/p/Zagbayi-Pharmacy-Limited-100040526726146/",
+        "image": "../assets/logo/zagbayi-pharmacy.jpg",
+        "phone": "07065787739",
+        "opens": "MON-SAT. 8:00AM-10:00PM",
+        "delivery": "NO",
+        "services": "We provide pharmaceuticals drugs sales, new medical equipements sales, and we connect patients to proffesional medical assistants.",
+        "latitude": 9.625986292031678,
+        "longitude": 6.552308775918834
+    },
+    {
+        "id": 93,
+        "title": "Mudos Pharmacy",
+        "about": "Beyond medicines, pharmacies offer expert guidance. Pharmacists, equipped with extensive knowledge, assist in understanding prescriptions and health needs with care and precision.",
+        "type": "pharmacies",
+        "website": "https://www.mudospharma.com/",
+        "image": "../assets/logo/zagbayi-pharmacy.jpg",
+        "phone": "09053854540",
+        "opens": "MON-SAT. 8:00AM-9:00PM. SUN(5:30PM-9:00PM)",
+        "delivery": "YES",
+        "services": "Home delivery, pharmaceuticals sales and consultancy, .",
+        "latitude": 9.610307532892808,
+        "longitude": 6.544327135775054
+    },
+    {
+        "id": 93,
+        "title": "Salbeez Pharmacy & Stores Ltd",
+        "about": "Pharmacies symbolize community well-being, ensuring seamless access to medicines and healthcare products, making health resources conveniently available to people.",
+        "type": "pharmacies",
+        "website": "https://www.facebook.com/p/Salbeez-Pharmacy-Stores-Ltd-100070786903060/?paipv=0&eav=AfZ5sEqhU1O4-3peHt2J8iRM8RFURYwiWT_TXUCdsjfJGH01x2upFXXepKK6XNStHzc&_rdr",
+        "image": "../assets/logo/zagbayi-pharmacy.jpg",
+        "phone": "08136310866",
+        "opens": "MON-SAT. 8:00AM-9:00PM. SUN(5:30PM-9:00PM)",
+        "delivery": "YES",
+        "services": "Medical and health.",
+        "latitude": 9.646929593811498,
+        "longitude": 6.539132670634444
     }
 ]
