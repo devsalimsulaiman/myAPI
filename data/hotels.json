@@ -168,5 +168,22 @@
         "website": "https://whitehill-luxury-hotel-minna.business.site/",
         "latitude": 9.590335110602991,
         "longitude": 6.5421814617034935
+    },
+      {
+        "id": 10,
+        "title": "Vagosh Hotels",
+        "type": "hotels",
+         "about": "White Hills has spacious, beautiful rooms that are fully air conditioned. They are well furnitured to cause great delight and relaxation with all sorts of amenities for our customers.",
+        "Check_in": "2:00PM, ID Required",
+        "Check_out": "12:00PM",
+        "opens": "8:00AM - 4:00PM",
+        "image": "https://github.com/devsalimsulaiman/my-Api/blob/main/assets/logo/access_bg.jpg",
+        "caution": "Cancellation policy applies. Pets not allowed. Children and Babies allowed.",
+        "features": "Security, adequate parking, air conditioning, king sized bed, refrigerator, television, in house dining, sofa, wardrobe, study desk, generator set, bathtub.",
+        "packages": "Economy Delight, Classic DE'Eval, Standard, Royal Lodge, Double Suite.",
+        "phone": "08127784402",
+        "website": "https://whitehill-luxury-hotel-minna.business.site/",
+        "latitude": 9.628245766949254,
+        "longitude": 6.536631315670125
     }
 ]
