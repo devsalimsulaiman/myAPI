@@ -2,23 +2,71 @@
     {
         "id": 1,
         "title": "General Hospital",
-        "type": "hospitals", 
-        "url": "/general-hospital",
-        "avatar": "../assets/logo/general-hospital.jpg",
-        "about": "it is a great hospital for patients around, carries ENT, A&E, OR."
+        "type": "hospitals",
+        "opens": "24/7",
+        "image": "../assets/logo/general-hospital.jpg",
+        "about": "General Hospital Minna was established in 1946 in order to provide quality healthcare services. During this period the hospital was controlled by the regional and native authorities as well as missionaries. The hospital is now controlled by Niger state ministry of health and it serves as medical center for medical internship (houseman-ship) for medical students from other institution.",
+        "ambulance": "YES (wheelchair entrance too)",
+        "sections": "Surgical, medical, pediatrics, gynacology, dental, ophtalmic, nursing, pharmacy, labouratory, medical records,  maintenance, social welfare, X-ray, public health, Admin.",
+        "phone": "08025625895",
+        "website": "https://www.facebook.com/profile.php?id=281266421883507&paipv=0&eav=AfaVcTm0a9oZDxiw3EqKK7SAie5RYl3R-FusvKbBjNbjhlaqM4oqLxkn-7P4FSxKws4&_rdr",
+        "latitude": 9.612640971061772,
+        "longitude": 6.545413539954628
     },
     {
         "id": 2,
         "title": "IBB Hospital",
         "type": "hospitals",
-        "url": "/ibb-hospital",
-        "avatar": "../assets/logo/ibb-hospital.jpg"
+        "opens": "24/7",
+        "image": "../assets/logo/ibb-hospital.jpg",
+        "about": "All is now set for Ibrahim Badamosi Babangida (IBB) Specialist Hospital in Minna, Niger State to commence kidney transplant. IBB Specialist Hospital had before now been carrying out a series of kidney dialyses successfully for as low as N15,000 as against over N15m outside the country.",
+        "ambulance": "YES",
+        "sections": "Surgical, medical, pediatrics, gynacology, dental, ophtalmic, nursing, pharmacy, labouratory, medical records,  maintenance, social welfare, X-ray, public health, Admin.",
+        "phone": "07030090806",
+        "website": "https://www.facebook.com/profile.php?id=1373120069493585&paipv=0&eav=AfZUOHb9R90Iz27WEpLqsHMJeNCB6yvjF75eZuqqTlmK1aulTvlh7RieJIK0h_w_vhI&_rdr",
+        "latitude": 9.583778076024307,
+        "longitude": 6.547487478594996
     },
     {
         "id": 3,
-        "title": "Peace Specialist",
+        "title": "Archmedics Hospital Minna",
         "type": "hospitals",
-        "url": "/peace-specialist",
-        "avatar": "../assets/logo/peace-specialist.jpg"
+        "opens": "24/7",
+        "image": "../assets/logo/peace-specialist.jpg",
+        "about": "Empathy isn't enough. ..We sympathise without compromising professional standard!",
+        "ambulance": "YES and (wheelchair)",
+        "sections": "Surgical, medical, pediatrics, gynacology, dental, ophtalmic, nursing, pharmacy, labouratory, medical records,  maintenance, social welfare, X-ray, public health, Admin.",
+        "phone": "08130969645",
+        "website": "https://www.facebook.com/archmedicshospital/",
+        "latitude": 9.593156959225814,
+        "longitude": 6.639856112440244
+    },
+    {
+        "id": 4,
+        "title": "Divine Mercy Hospital and Maternity",
+        "type": "hospitals",
+        "opens": "24/7",
+        "image": "../assets/logo/peace-specialist.jpg",
+        "about": "Divine Mercy Hospital and Maternity Minna was established in 1946 in order to provide quality healthcare services.",
+        "ambulance": "YES",
+        "sections": "Surgical, medical, pediatrics, gynacology, dental, ophtalmic, nursing, pharmacy, labouratory, medical records,  maintenance, social welfare, X-ray, public health, Admin.",
+        "phone": "09021118397",
+        "website": "https://www.facebook.com/p/Divine-Mercy-Hospital-and-Maternity-100057246438832/",
+        "latitude": 9.625915622330538,
+        "longitude": 6.5210439436443055
+    },
+    {
+        "id": 5,
+        "title": "Imani Specialist Hospital",
+        "type": "hospitals",
+        "opens": "24/7",
+        "image": "../assets/logo/peace-specialist.jpg",
+        "about": "Imani Specialist Hospital Minna provides quality healthcare services and it serves as medical center for medical internship (houseman-ship) for medical students from other institution.",
+        "ambulance": "YES",
+        "sections": "Surgical, medical, pediatrics, gynacology, dental, ophtalmic, nursing, pharmacy, labouratory, medical records,  maintenance, social welfare, X-ray, public health, Admin.",
+        "phone": "0000000000",
+        "website": "https://www.facebook.com/profile.php?id=179520975778746&paipv=0&eav=AfbIGPdbsm_SenvZdMzyv5ydiHwzsBxeNWin4TSJBfmxE4glcMoR3AGjuqrsiEuTbcI&_rdr",
+        "latitude": 9.626449799760618,
+        "longitude": 6.56290249330682
     }
 ]
