@@ -77,7 +77,7 @@
     {
         "id": 205,
         "title": "Bovas Filling Station",
-        "image": "https://github.com/devsalimsulaiman/my-Api/blob/main/assets/logo/conoil.png",
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/bovas.jpg",
         "petrol": "yes",
         "petrol_price": 190,
         "diesel": "yes",
@@ -137,7 +137,7 @@
     {
         "id": 209,
         "title": "AYM SHAFA Filling Station",
-        "image": "https://github.com/devsalimsulaiman/my-Api/blob/main/assets/logo/conoil.png",
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/AYM-SHAFA-HOLDINGS-001.png",
         "petrol": "no",
         "petrol_price": 188,
         "diesel": "no",
