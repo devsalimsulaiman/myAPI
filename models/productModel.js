@@ -12,6 +12,7 @@ let gas = require('../data/gas.json');
 let routeCost = require('../data/routeCost.json');
 let questions = require('../data/questions.json');
 let allTranslations = require('../data/allTranslations.json');
+let trends = require('../data/ads.json');
 
 /*
 // get trends
@@ -114,8 +115,15 @@ function getAllTranslations() {
     })
 }
 
+// get all trends
+function getTrends() {
+    return new Promise((resolve, reject) => {
+        resolve(trends)
+    })
+}
+
 module.exports = {
-    // getTrends,
+    getTrends,
     getBanks,
     getCenters,
     getHospitals,
