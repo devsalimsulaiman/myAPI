@@ -2,7 +2,7 @@
     {
         "id": 200,
         "title": "Conoil Filling Station",
-        "image": "https://raw.githubusercontent.com/devsalimsulaiman/my-Api/main/assets/logo/conoil.png",
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/conoil.png",
         "petrol": "yes",
         "petrol_price": 190,
         "diesel": "no",
