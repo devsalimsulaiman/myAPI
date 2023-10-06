@@ -12,7 +12,7 @@ let gas = require('../data/gas.json');
 let routeCost = require('../data/routeCost.json');
 let questions = require('../data/questions.json');
 let allTranslations = require('../data/allTranslations.json');
-let trends = require('../data/trendss.json');
+let trends = require('../data/trends.json');
 
 /*
 // get trends
