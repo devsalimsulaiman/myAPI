@@ -1,18 +1,18 @@
 [
     {
-        "image": "fff",
-        "caption": "gggg"
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/Screenshot%202023-10-06%20152305.png",
+        "caption": "Mouth tickling pizza available at Cakes n more. Drop by and always come back. We take orders and we do delievery also."
+    },
+     {
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/belamin.png",
+        "caption": "Belamin blings brings waist beads for you for that traditional sleek fashion on you. Contact us we deliever in bulk and in pieces."
     },
     {
-        "image": "fff",
-        "caption": "gggg"
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/Screenshot%202023-10-06%20152319.png",
+        "caption": "We sell houses now available at labyrinth estate. Call us now to book your spot."
     },
     {
-        "image": "fff",
-        "caption": "gggg"
-    },
-    {
-        "image": "fff",
-        "caption": "gggg"
+        "image": "https://raw.githubusercontent.com/devsalimsulaiman/myAPI/main/assets/logo/Screenshot%202023-10-06%20152332.png",
+        "caption": "We sell houses at rayhomes limited. We are experts in the field of estate management with 12 years experience. Let's take you to your new home."
     }
 ]
