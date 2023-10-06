@@ -1,5 +1,5 @@
 const http = require('http');
-const { getBanks, getCenters, getHotels, getPharmacies, getProfessions, getFood, getHospitals, getSchools, getSecurities, getShopping, getGas, getRouteCost, getQuestions, getAllTranslations } = require('./controllers/productController');
+const { getBanks, getCenters, getHotels, getPharmacies, getProfessions, getFood, getHospitals, getSchools, getSecurities, getShopping, getGas, getRouteCost, getQuestions, getAllTranslations, getTrends } = require('./controllers/productController');
 
 
 
@@ -39,6 +39,9 @@ const server = http.createServer((req, res) => {
     }
     else if(req.url === '/api/routeCost' && req.method === 'GET') {
         getRouteCost(req, res)
+    }
+    else if(req.url === '/api/trends' && req.method === 'GET') {
+        getTrends(req, res)
     }
     else if(req.url === '/api/questions' && req.method === 'GET') {
         getQuestions(req, res)
