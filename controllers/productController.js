@@ -181,6 +181,18 @@ async function getAllTranslations(req, res) {
     }
 }
 
+// @desc  trends
+// @route GET api/trends
+async function getTrends(req, res) {
+    try {
+        const trends = await ProductModel.getTrends() 
+        res.writeHead(200, {'Content-Type': 'application/json'})
+        res.end(JSON.stringify(trends))
+    }catch(error) {
+        console.log(error)
+    }
+}
+
 
 
 // To make it visible for use out there
@@ -198,6 +210,7 @@ module.exports = {
     getGas,
     getRouteCost,
     getQuestions,
-    getAllTranslations
+    getAllTranslations,
+    getTrends
 
 }
